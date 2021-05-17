@@ -12,5 +12,6 @@ Jogo feito no módulo 2 do curso Young da [Ctrl + Play](https://www.ctrlplay.com
 
 </h2>
 
+### Para estudo de Html, css e js!
 
 </center>
